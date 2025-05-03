@@ -1,4 +1,5 @@
  # Contributors
+ - [Juliana de Paula Almeida](https://github.com/julianadepaula)
  - [Shubham Garh](https://github.com/devac123)
  - [Tyler Taylor](https://github.com/UnstablePayload)
  - [Anurag Bhardwaj](https://github.com/theanuraaag)
